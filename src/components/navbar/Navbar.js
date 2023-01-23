@@ -14,7 +14,7 @@ function Navbar() {
     const handleNav = () => setNav(!nav)
 
     return (
-        <div name="home "className={nav ? 'navbar navbar-bg' : 'navbar'}>
+        <div className={nav ? 'navbar navbar-bg' : 'navbar'}>
             <div className={nav ? "logo dark" : "logo"}>
                 <h2>All Seasons Travel</h2>
             </div>
