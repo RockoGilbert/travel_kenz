@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { BiSearch } from 'react-icons/bi'
 import { BsPerson } from 'react-icons/bs'
 import { HiOutlineMenuAlt4 } from 'react-icons/hi'
-import { AiOutlineClose } from 'react-icons/ai'
+import {AiOutlineClose} from "react-icons/ai"
 import { FaFacebook, FaInstagram, FaPinterest, FaTwitter, FaYoutube } from 'react-icons/fa'
 
 import { Link } from 'react-scroll'
@@ -14,8 +14,8 @@ function Navbar() {
     const handleNav = () => setNav(!nav)
 
     return (
-        <div className={nav ? 'navbar navbar-bg' : 'navbar'}>
-            <div className={nav ? 'logo dark' : 'logo'}>
+        <div name="home "className={nav ? 'navbar navbar-bg' : 'navbar'}>
+            <div className={nav ? "logo dark" : "logo"}>
                 <h2>All Seasons Travel</h2>
             </div>
             <ul className="nav-menu">
@@ -26,12 +26,11 @@ function Navbar() {
                 <Link to='views' smooth={true} duration={500} ><li>Views</li></Link>
             </ul>
             <div className="nav-icons">
-                <BiSearch className='icon' style={{ marginRight: '1rem' }} />
+                <BiSearch className='icon' style={{marginRight: '1rem'}} />
                 <BsPerson className='icon' />
             </div>
             <div className="hamburger" onClick={handleNav}>
-                {!nav ? (<HiOutlineMenuAlt4 className='icon' />) : (<AiOutlineClose style={{ color: '#000' }} className='icon' />)}
-
+                {!nav ? (<HiOutlineMenuAlt4 className="icon" />) : (<AiOutlineClose className='icon' />)}
             </div>
 
             <div className={nav ? 'mobile-menu active' : 'mobile-menu'}>
