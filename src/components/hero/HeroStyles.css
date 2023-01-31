@@ -63,6 +63,6 @@
 
  @media screen and (max-width: 940px) {
    .form input[type=text] {
-     width: 275px;
+     max-width: 275px;
    }
  }

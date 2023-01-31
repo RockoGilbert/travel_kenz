@@ -7,7 +7,7 @@ import KeyWest from '../../assets/keywest.jpg'
 import Maldives from '../../assets/maldives.jpg'
 import Maldives2 from '../../assets/maldives2.jpg'
 import Maldives3 from '../../assets/maldives3.jpg'
-import FtD from '../../assets/FtD.jpg'
+
 
 import SelectsImg from '../SelectsImg/SelectsImg'
 
@@ -16,12 +16,11 @@ function Selects() {
         <div className="selects">
             <div className="container">
                 <SelectsImg bgImg={BoraBora} text='Bora Bora' />
-                <SelectsImg bgImg={BoraBora2} text='BoraBora2' />
+                <SelectsImg bgImg={BoraBora2} text='Emerald Bay' />
                 <SelectsImg bgImg={KeyWest} text='Key West' />
                 <SelectsImg bgImg={Maldives} text='Maldives' />
-                <SelectsImg bgImg={Maldives2} text='Maldives2' />
-                <SelectsImg bgImg={Maldives3} text='Maldives3' />
-                <SelectsImg bgImg={FtD} text='FtD' />
+                <SelectsImg bgImg={Maldives2} text='KeyWest' />
+                <SelectsImg bgImg={Maldives3} text='The Caribbean' />
             </div>
         </div>
     )
