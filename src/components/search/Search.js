@@ -16,7 +16,7 @@ function Search() {
                                 <img src={Gold} alt="/" style={{ marginRight: '1rem' }} />
                             </div>
                             <div>
-                                <h3>WORLD'S LEADING</h3>
+                                <h3>WORLD&aposS LEADING</h3>
                                 <p>ALL-INCLUSIVE COMPANY FOR 20 YEARS IN-A-ROW</p>
                             </div>
                         </div>

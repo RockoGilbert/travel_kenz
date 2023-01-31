@@ -1,16 +1,13 @@
 import React from 'react'
-import "./SelectsStyles.css"
+import "./SelectsImgStyles.css"
 
-// import BoraBora from '../../assets/borabora.jpg'
-
-function SelectsImg(props) {
+function SelectsImg({ bgImg, text }) {
     return (
         <div className="selects-location ">
-            <img src={props.bgImg} alt="/" />
+            <img src={bgImg} alt="background" />
             <div className="overlay">
-                <p>props.text</p>
+                <p>text</p>
             </div>
-
         </div>
     )
 }

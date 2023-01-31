@@ -15,7 +15,7 @@ function Destinations() {
         <div className="destinations">
             <div className="container">
                 <h1> All-Inclusive Resorts</h1>
-                <p>On the Caribbean's Best Beaches</p>
+                <p>On the Caribbean&aposs Best Beaches</p>
                 <div className="img-container">
                     <img className="span-3 image-grid-row-2" src={BoraBora} alt="/" />
                     <img src={BoraBora2} alt="/" />
