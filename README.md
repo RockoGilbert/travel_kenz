@@ -1,4 +1,4 @@
-# This is the first part of a complete Travel App. 
+# A Travel Booking Website
 
 ![makpng](https://user-images.githubusercontent.com/70171772/215814279-e8e99f02-9668-4ead-bf18-fddad0b727d6.png)
 
