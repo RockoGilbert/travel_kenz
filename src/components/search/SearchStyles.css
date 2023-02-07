@@ -76,7 +76,11 @@
 
 @media screen and (max-width: 940px) {
     .search .container {
+        display: flex;
+        justify-content: center;
         grid-template-columns: 1fr;
+        padding-top: 5rem;
+        width: 60%;
     }
 
     .search-col-2 {
