@@ -1,4 +1,12 @@
-# A Travel Booking Website
+#Travel with Makenzie
+
+## About
+ 
+# A simple and clean frontend travel website using React. Users can enjoy the smoothness of react scroll as they explore. 
+
+## Coming Soon
+
+# With the frontend design and functionality done (minus an overlapping div:) the plan is to connect a backend, add user authentication, database to hold and pull feature properties, and expand on the images in the gallery!
 
 ![makpng](https://user-images.githubusercontent.com/70171772/215814279-e8e99f02-9668-4ead-bf18-fddad0b727d6.png)
 
