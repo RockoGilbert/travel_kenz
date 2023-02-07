@@ -72,7 +72,7 @@ import Gold from '../../assets/gold.png'
 
 function Search() {
     return (
-        <div name='book' className='search'>
+        <div name='book' className='search mt-4'>
             <div className="container">
                 <div className="left">
                     <h2>LUXURY INCLUDED VACATIONS FOR TWO PEOPLE</h2>
