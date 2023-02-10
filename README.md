@@ -17,9 +17,12 @@
 ![mak1](https://user-images.githubusercontent.com/70171772/215814354-d0416c00-2523-4263-8545-63c40b0349de.png)
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo 
+https://travel-kenz.netlify.app/
 
-## Available Scripts
+
+
+## Scripts
 
 In the project directory, you can run:
 
@@ -46,6 +49,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
 
