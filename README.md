@@ -1,8 +1,9 @@
-#Travel with Makenzie
+## Demo 
+https://travel-kenz.netlify.app/
 
 ## About
  
-# A simple and clean frontend travel website using React. Users can enjoy the smoothness of react scroll as they explore. 
+### A simple and clean frontend travel website using React. Users can enjoy the smoothness of react scroll as they explore. 
 
 ## Coming Soon
 
@@ -10,17 +11,9 @@
 
 ![makpng](https://user-images.githubusercontent.com/70171772/215814279-e8e99f02-9668-4ead-bf18-fddad0b727d6.png)
 
-
 ![mak3](https://user-images.githubusercontent.com/70171772/215814319-d20064bc-cba3-4455-a57a-24489f69cc80.png)
 
-
 ![mak1](https://user-images.githubusercontent.com/70171772/215814354-d0416c00-2523-4263-8545-63c40b0349de.png)
-
-
-## Demo 
-https://travel-kenz.netlify.app/
-
-
 
 ## Scripts
 
