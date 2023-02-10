@@ -11,32 +11,26 @@ import KeyWest from '../../assets/keywest.jpg'
 
 function ImgCarousel() {
     return (
-        <div className="container">
-            <div name='carousel' className='container'>
-                <Carousel className='carousel' showArrows={true} autoPlay={true} infiniteLoop={true} >
-                    <div>
-                        <img src={BoraBora} alt='/' />
-                        {/* <p className="legend">Maldives 1</p> */}
-                    </div>
-                    <div>
-                        <img src={BoraBora2} alt='/' />
-                        {/* <p className="legend">Legend 2</p> */}
-                    </div>
-                    <div>
-                        <img src={Maldives} alt='/' />
-                        {/* <p className="legend">Legend 3</p> */}
-                    </div>
-                    <div>
-                        <img src={KeyWest} alt='/' />
-                        {/* <p className="legend">Legend 3</p> */}
-                    </div>
-                </Carousel>
-            </div>
-
-
+        <div className='container'>
+            <Carousel className='carousel' showArrows={true} autoPlay={true} infiniteLoop={true} >
+                <div>
+                    <img src={BoraBora} alt='/' />
+                    {/* <p className="legend">Maldives 1</p> */}
+                </div>
+                <div>
+                    <img src={BoraBora2} alt='/' />
+                    {/* <p className="legend">Legend 2</p> */}
+                </div>
+                <div>
+                    <img src={Maldives} alt='/' />
+                    {/* <p className="legend">Legend 3</p> */}
+                </div>
+                <div>
+                    <img src={KeyWest} alt='/' />
+                    {/* <p className="legend">Legend 3</p> */}
+                </div>
+            </Carousel>
         </div>
-
-
     )
 }
 

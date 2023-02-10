@@ -2,7 +2,6 @@
     padding: 2rem 0;
 }
 
-
 .carousel img {
     height: 75vh;
     object-fit: cover;
@@ -11,3 +10,9 @@
 .thumbs-wrapper, .carousel-status {
     display: none;
 }
+
+@media screen and (max-width: 780px) {
+    .container{
+      display: none;
+    }
+  }

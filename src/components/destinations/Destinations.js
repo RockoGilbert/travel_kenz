@@ -11,7 +11,7 @@ import Maldives2 from '../../assets/maldives2.jpg'
 
 function Destinations() {
     return (
-        <div className="destinations">
+        <div name="destinations" className='destinations'>
             <div className="container">
                 <h1> All-Inclusive Resorts</h1>
                 <p>Beautiful scenery throughtout Mexico and the Riviera Maya</p>
